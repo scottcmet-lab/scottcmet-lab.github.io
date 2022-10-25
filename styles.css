@@ -1,4 +1,9 @@
 .content{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 4fr;
+    gap: 5px;
+}
+img {
+  width: 200px,
+  height: auto
 }
